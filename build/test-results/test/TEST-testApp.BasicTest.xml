@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testApp.BasicTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-27T08:01:19" hostname="LAPTOP-6NSA39VR" time="43.625">
+  <properties/>
+  <testcase name="myfirstTest" classname="testApp.BasicTest" time="43.625"/>
+  <system-out><![CDATA[Iniciando Conexion Todo apk.....
+Cantidad de tareas1
+ Cant found task: 3
+AFTER.....
+]]></system-out>
+  <system-err><![CDATA[sep. 27, 2020 4:01:42 A. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
